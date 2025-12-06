@@ -392,7 +392,7 @@ elif page == "🔮 Prediksi Kelayakan":
                 if kolesterol == "Normal":
                     good_factors.append("Kolesterol normal")
 
-                st.markdown("""r
+                st.markdown("""
                 <style>
                 .good-factor {
                     color: black !important;
