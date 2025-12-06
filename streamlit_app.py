@@ -745,6 +745,6 @@ st.markdown("""
 <div style="text-align: center; color: #666;">
     <p>🏥 <strong>Prediksi Kelayakan Asuransi Kesehatan</strong> - Aplikasi Machine Learning Demo</p>
     <p>Data dummy untuk keperluan demonstrasi | Model: Random Forest Classifier</p>
-    <p style="font-size: 0.8rem;">© 2024 - Sistem Prediksi Asuransi Kesehatan</p>
+    <p style="font-size: 0.8rem;">© 2025 - Sistem Prediksi kelayakan Dalam Berasuransi - Asuransi Kesehatan</p>
 </div>
 """, unsafe_allow_html=True)
