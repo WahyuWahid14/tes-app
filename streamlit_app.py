@@ -315,22 +315,24 @@ elif page == "🔮 Prediksi Kelayakan":
             with col1:
                 if prediction == 1:
                     st.markdown("""
-                    <div class="prediction-box">
-                        <h2>✅ LAYAK ASURANSI</h2>
-                        <p><strong>Status: DISETUJUI</strong></p>
-                        <p>Profil kesehatan memenuhi kriteria untuk mendapatkan asuransi kesehatan.</p>
-                        <p style="font-size: 1.2rem; margin-top: 10px;">Probabilitas: <strong>{:.1f}%</strong></p>
+                    <div class="prediction-box" style="color: black;">
+                        <h2 style="color: black;">✅ LAYAK ASURANSI</h2>
+                        <p style="color: black;"><strong>Status: DISETUJUI</strong></p>
+                        <p style="color: black;">Profil kesehatan memenuhi kriteria untuk mendapatkan asuransi kesehatan.</p>
+                        <p style="font-size: 1.2rem; margin-top: 10px; color: black;">
+                            Probabilitas: <strong>{:.1f}%</strong>
+                        </p>
                     </div>
                     """.format(prediction_proba[1]*100), unsafe_allow_html=True)
                 else:
                     st.markdown("""
-                    <div class="rejection-box">
-                        <h2>❌ TIDAK LAYAK ASURANSI</h2>
-                        <p><strong>Status: DITOLAK</strong></p>
-                        <p>Profil kesehatan memiliki risiko yang terlalu tinggi untuk diasuransikan.</p>
-                        <p style="font-size: 1.2rem; margin-top: 10px;">Probabilitas: <strong>{:.1f}%</strong></p>
+                    <div class="prediction-box" style="color: black;">
+                        <h2 style="color: black;">✅ LAYAK ASURANSI</h2>
+                        <p style="color: black;"><strong>Status: DISETUJUI</strong></p>
+                        <p style="color: black;">Profil kesehatan memenuhi kriteria untuk mendapatkan asuransi kesehatan.</p>
+                        <p style="font-size: 1.2rem; margin-top: 10px; style="color: black;"">Probabilitas: <strong>{:.1f}%</strong></p>
                     </div>
-                    """.format(prediction_proba[0]*100), unsafe_allow_html=True)
+                    """.format(prediction_proba[1]*100), unsafe_allow_html=True)
             
             with col2:
                 st.markdown("### Probabilitas Prediksi")
