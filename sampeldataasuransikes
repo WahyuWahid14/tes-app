@@ -1,0 +1,501 @@
+,usia,riwayat_penyakit_kronis,frekuensi_olahraga,kebiasaan_merokok,konsumsi_alkohol,pekerjaan_berisiko,riwayat_keluarga_penyakit,tekanan_darah_sistolik,tekanan_darah_diastolik,kolesterol,bmi,stres_level,tidur_per_hari,diet_sehat,kondisi_medis_keluarga,layak_asuransi
+0,56,Berat,Jarang,Sering,Tidak,Sedang,Tidak ada,130,75,Normal,24.60466329067722,Rendah,5.458894672710984,Sering,Hipertensi,0
+1,69,Ringan,Sering,Tidak,Tidak,Tinggi,2+ penyakit,131,73,Normal,22.104379451821266,Rendah,6.440097631088029,Selalu,Jantung,0
+2,46,Tidak,Jarang,Tidak,Tidak,Sedang,1 penyakit,121,84,Normal,22.595831052440104,Rendah,7.966777737467937,Sering,Diabetes,1
+3,32,Ringan,Jarang,Kadang-kadang,Sering,Tidak,Tidak ada,141,76,Normal,28.480839985796443,Sedang,8.392368537016488,Tidak,Diabetes,1
+4,60,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,Tidak ada,126,78,Normal,22.411537135653926,Sedang,6.2552023967770465,Sering,Kanker,1
+5,25,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,107,87,Sedang,24.559543779854632,Rendah,5.269761361022824,Kadang,Jantung,1
+6,38,Tidak,Tidak pernah,Tidak,Sering,Tidak,Tidak ada,141,60,Sedang,35.849682940402715,Rendah,7.4017654567995,Selalu,Diabetes,1
+7,56,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,130,93,Normal,17.881586815580384,Sedang,5.764697544061226,Kadang,Hipertensi,0
+8,36,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,113,80,Normal,15.740786342126707,Rendah,6.222621041708196,Tidak,Tidak ada,0
+9,40,Tidak,Tidak pernah,Sering,Sosial,Tidak,Tidak ada,112,75,Normal,28.917948323993034,Rendah,8.987914135655556,Tidak,Tidak ada,1
+10,28,Tidak,Jarang,Sering,Sosial,Tidak,Tidak ada,124,79,Normal,21.606784693529484,Rendah,8.240673142848653,Sering,Jantung,1
+11,28,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,126,79,Sedang,23.4088123612869,Tinggi,7.236961468377178,Kadang,Kanker,1
+12,41,Sedang,Sering,Tidak,Tidak,Tidak,2+ penyakit,122,62,Tinggi,21.09421810934443,Tinggi,5.092121498330916,Sering,Hipertensi,1
+13,53,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,124,94,Normal,23.700999296162436,Rendah,7.317094851205988,Kadang,Jantung,1
+14,57,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,145,80,Sedang,32.992690560481705,Sedang,8.59398593618129,Kadang,Tidak ada,1
+15,41,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,136,84,Sedang,29.010642293090598,Sedang,6.4365495013516965,Kadang,Jantung,1
+16,20,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,122,89,Sedang,29.311117559434884,Sedang,9.026671134980074,Selalu,Hipertensi,1
+17,39,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,134,69,Normal,17.918864721036773,Sedang,8.939117934277311,Selalu,Diabetes,0
+18,19,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,2+ penyakit,104,84,Tinggi,19.244231317235652,Sedang,9.49559924821521,Kadang,Hipertensi,1
+19,41,Tidak,Sering,Kadang-kadang,Tidak,Tidak,2+ penyakit,125,77,Normal,10.804606702572865,Rendah,7.457864689797029,Kadang,Diabetes,1
+20,61,Tidak,Tidak pernah,Kadang-kadang,Sosial,Tinggi,1 penyakit,147,88,Normal,20.95309589458623,Rendah,7.881087549709019,Tidak,Diabetes,0
+21,47,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,116,58,Normal,29.783515931928292,Sedang,9.121280932496635,Sering,Diabetes,1
+22,55,Ringan,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,107,79,Normal,27.584732578741853,Tinggi,7.671090905603464,Kadang,Jantung,0
+23,19,Tidak,Sering,Tidak,Tidak,Tidak,Tidak ada,110,73,Normal,23.892433685239382,Sedang,6.248148838314681,Selalu,Tidak ada,1
+24,38,Tidak,Jarang,Sering,Sosial,Tidak,1 penyakit,103,84,Normal,24.888498581409735,Tinggi,6.327185745208208,Selalu,Jantung,0
+25,50,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,108,84,Normal,21.55557228712297,Tinggi,7.357832430660609,Kadang,Tidak ada,1
+26,29,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,114,72,Sedang,26.02379441200892,Rendah,5.064157867080672,Kadang,Hipertensi,1
+27,39,Sedang,Sedang,Tidak,Sosial,Tinggi,Tidak ada,98,72,Sedang,28.829391397403075,Sedang,6.785111626953711,Selalu,Kanker,1
+28,61,Ringan,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,120,78,Normal,16.920566062947636,Sedang,8.64482067734538,Selalu,Hipertensi,1
+29,42,Tidak,Sedang,Kadang-kadang,Sosial,Sedang,2+ penyakit,133,71,Sedang,26.49823843918674,Tinggi,3.7131192232520784,Tidak,Jantung,0
+30,66,Tidak,Tidak pernah,Tidak,Sosial,Sedang,Tidak ada,106,88,Sedang,29.662174354773335,Tinggi,9.301723152691773,Kadang,Jantung,1
+31,44,Ringan,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,142,76,Sedang,22.924498555183153,Sedang,8.68356132805474,Kadang,Tidak ada,0
+32,59,Tidak,Tidak pernah,Sering,Sosial,Tinggi,Tidak ada,127,50,Normal,28.503503060602917,Rendah,6.310353076254286,Kadang,Jantung,0
+33,45,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,135,76,Sedang,39.07327222236276,Sedang,7.815086241807714,Tidak,Diabetes,1
+34,33,Sedang,Jarang,Tidak,Sosial,Tidak,Tidak ada,110,69,Tinggi,24.47828603506554,Rendah,7.00472159035949,Tidak,Jantung,1
+35,32,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,132,63,Sedang,26.966535250026617,Sedang,8.844985552658024,Sering,Tidak ada,1
+36,64,Tidak,Sedang,Sering,Sosial,Tidak,2+ penyakit,103,67,Normal,21.309714581693044,Tinggi,8.474024714154911,Kadang,Tidak ada,1
+37,68,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,133,81,Normal,25.90625581301025,Rendah,4.899893915225486,Tidak,Diabetes,1
+38,61,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,122,93,Sedang,27.30135812491152,Sedang,7.880893620196265,Kadang,Tidak ada,0
+39,69,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,128,83,Normal,25.97421170135069,Sedang,6.691558219535128,Selalu,Kanker,1
+40,20,Sedang,Jarang,Kadang-kadang,Sering,Tidak,Tidak ada,102,73,Normal,19.901523401455716,Sedang,7.12424885577715,Selalu,Hipertensi,1
+41,54,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,106,84,Normal,26.031808856627254,Rendah,5.907742148545276,Kadang,Jantung,1
+42,68,Berat,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,128,75,Sedang,32.31097969358818,Sedang,9.622205603681254,Kadang,Kanker,0
+43,24,Sedang,Tidak pernah,Sering,Tidak,Tidak,1 penyakit,105,73,Sedang,27.243178822572638,Tinggi,8.560092729853864,Selalu,Jantung,0
+44,38,Tidak,Sedang,Tidak,Tidak,Tidak,Tidak ada,126,68,Normal,29.809935945359207,Tinggi,5.890343254040549,Kadang,Kanker,1
+45,26,Tidak,Sering,Tidak,Sosial,Sedang,Tidak ada,99,62,Tinggi,23.814940149936863,Rendah,4.998084089634651,Kadang,Jantung,1
+46,56,Tidak,Jarang,Sering,Sosial,Tidak,2+ penyakit,132,76,Normal,28.74950119711855,Tinggi,6.421491053533227,Kadang,Diabetes,0
+47,35,Tidak,Tidak pernah,Tidak,Tidak,Sedang,2+ penyakit,101,81,Sedang,26.396339191082628,Sedang,7.6517539691369585,Tidak,Tidak ada,0
+48,21,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,128,79,Sedang,20.24544635156384,Rendah,7.360308765919335,Kadang,Tidak ada,1
+49,42,Ringan,Jarang,Tidak,Sosial,Tidak,Tidak ada,129,75,Sedang,26.592605023994373,Rendah,8.879699237152366,Selalu,Diabetes,1
+50,31,Tidak,Tidak pernah,Tidak,Sosial,Tidak,1 penyakit,109,70,Tinggi,20.04151668279845,Rendah,8.184879583271279,Sering,Kanker,1
+51,67,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,128,86,Normal,21.83559862557604,Tinggi,8.454353538629361,Kadang,Hipertensi,0
+52,26,Sedang,Sedang,Tidak,Tidak,Tidak,Tidak ada,123,66,Sedang,25.946641536461872,Sedang,7.490283100915656,Selalu,Kanker,1
+53,43,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,111,87,Normal,26.48622136690062,Sedang,4.916051904683515,Tidak,Tidak ada,1
+54,19,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,104,69,Sedang,19.053837674614353,Rendah,6.706452203279648,Kadang,Hipertensi,0
+55,37,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,90,72,Sedang,30.26992885591438,Sedang,8.590134609862998,Sering,Jantung,1
+56,45,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,125,65,Sedang,27.860031391502364,Rendah,6.922715607213031,Sering,Hipertensi,1
+57,64,Ringan,Jarang,Tidak,Sosial,Sedang,2+ penyakit,96,74,Normal,21.47635782194558,Rendah,7.75463555293562,Tidak,Kanker,0
+58,24,Ringan,Tidak pernah,Sering,Tidak,Tinggi,Tidak ada,121,89,Sedang,17.312076017754123,Sedang,6.5218775271308,Kadang,Diabetes,0
+59,61,Sedang,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,116,85,Normal,24.275477104592845,Rendah,5.455282227187233,Sering,Jantung,1
+60,25,Ringan,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,130,89,Normal,22.770281430694197,Tinggi,6.814983903930834,Sering,Kanker,1
+61,64,Sedang,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,115,85,Sedang,25.565702285265115,Rendah,7.463571164548981,Sering,Jantung,1
+62,52,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,115,68,Normal,23.18441669422217,Sedang,6.0164684208078345,Kadang,Hipertensi,1
+63,31,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,130,76,Sedang,14.962715696274952,Sedang,6.646433132714997,Tidak,Tidak ada,1
+64,34,Ringan,Tidak pernah,Sering,Sosial,Sedang,2+ penyakit,125,72,Normal,23.058265308494207,Sedang,5.590805137021026,Kadang,Kanker,0
+65,53,Sedang,Tidak pernah,Tidak,Sering,Tidak,2+ penyakit,124,93,Normal,23.471904444658435,Rendah,8.678867376346144,Tidak,Diabetes,1
+66,67,Berat,Sedang,Tidak,Tidak,Tidak,Tidak ada,127,68,Sedang,28.168305123870294,Rendah,6.558316363617949,Selalu,Hipertensi,0
+67,57,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,96,88,Normal,21.50900162694475,Tinggi,9.179133317689274,Kadang,Kanker,1
+68,21,Tidak,Sedang,Tidak,Sosial,Tidak,1 penyakit,131,88,Normal,33.39337336686283,Rendah,9.293121775811363,Kadang,Diabetes,1
+69,19,Ringan,Jarang,Tidak,Tidak,Tidak,1 penyakit,129,98,Sedang,15.441797246741215,Tinggi,6.878431052917384,Sering,Kanker,1
+70,23,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,104,75,Normal,31.555837489013122,Tinggi,5.487326901178975,Kadang,Hipertensi,1
+71,59,Sedang,Tidak pernah,Kadang-kadang,Sosial,Tidak,2+ penyakit,116,87,Sedang,23.878405145609477,Rendah,3.8711531833999944,Kadang,Kanker,1
+72,21,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,119,102,Normal,29.297924361717783,Rendah,4.791944390459813,Selalu,Jantung,1
+73,46,Tidak,Sedang,Tidak,Tidak,Tidak,Tidak ada,117,73,Sedang,25.399007420293664,Sedang,4.93924776265201,Selalu,Hipertensi,1
+74,35,Ringan,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,125,64,Sedang,30.697777680127345,Tinggi,9.067704441192257,Sering,Kanker,0
+75,43,Ringan,Tidak pernah,Kadang-kadang,Sosial,Tidak,Tidak ada,141,61,Sedang,23.063190177235946,Tinggi,7.173736880840419,Tidak,Tidak ada,1
+76,61,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,136,87,Normal,19.50689787411094,Sedang,7.584406786137982,Sering,Kanker,1
+77,51,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,100,61,Sedang,32.10252143635532,Sedang,3.6693684865973113,Sering,Jantung,1
+78,27,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,129,76,Sedang,24.432596770589296,Rendah,5.203050356174108,Tidak,Diabetes,0
+79,53,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,139,84,Sedang,26.107792368121054,Tinggi,8.330619664669431,Kadang,Diabetes,1
+80,31,Tidak,Jarang,Kadang-kadang,Sosial,Tidak,1 penyakit,125,81,Normal,31.173759570223975,Tinggi,7.430161168573879,Selalu,Diabetes,0
+81,48,Sedang,Sedang,Tidak,Tidak,Tidak,Tidak ada,136,84,Sedang,19.840223789527826,Rendah,6.779192081971604,Tidak,Tidak ada,1
+82,65,Tidak,Sedang,Kadang-kadang,Sering,Tidak,2+ penyakit,150,82,Sedang,27.977454488196287,Rendah,7.847263537900184,Sering,Jantung,1
+83,32,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,135,92,Normal,22.050526217685544,Rendah,9.453696709203722,Kadang,Hipertensi,0
+84,25,Sedang,Tidak pernah,Tidak,Tidak,Tinggi,Tidak ada,123,70,Normal,24.33915322177814,Rendah,6.668436304694424,Kadang,Diabetes,1
+85,31,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,135,73,Sedang,25.361394826921444,Tinggi,7.104054703987104,Tidak,Jantung,1
+86,40,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,122,72,Normal,17.498890692765322,Rendah,7.288895378096957,Selalu,Kanker,1
+87,57,Berat,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,120,88,Tinggi,21.105814785897827,Rendah,10.588164452910988,Kadang,Tidak ada,0
+88,38,Berat,Jarang,Tidak,Sering,Tidak,1 penyakit,114,89,Sedang,31.755364462065696,Rendah,3.8509656033714617,Sering,Jantung,0
+89,33,Tidak,Jarang,Tidak,Tidak,Tidak,2+ penyakit,143,84,Sedang,29.43095594292398,Tinggi,8.024834522183212,Sering,Jantung,1
+90,62,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,107,91,Normal,24.686802113363825,Sedang,6.827796626861405,Sering,Hipertensi,0
+91,35,Tidak,Jarang,Sering,Sosial,Tinggi,1 penyakit,142,68,Normal,26.215617292564467,Sedang,7.85015758927627,Selalu,Jantung,0
+92,64,Tidak,Tidak pernah,Tidak,Sosial,Tidak,1 penyakit,127,96,Tinggi,23.52878747181771,Rendah,6.013941169007913,Sering,Hipertensi,1
+93,41,Tidak,Sering,Tidak,Tidak,Tidak,2+ penyakit,99,95,Normal,31.78291692913991,Tinggi,6.926552453712325,Kadang,Tidak ada,0
+94,43,Ringan,Sedang,Tidak,Tidak,Tidak,Tidak ada,125,87,Sedang,23.99823711102918,Tinggi,8.067115869198243,Selalu,Tidak ada,1
+95,42,Ringan,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,88,97,Normal,26.15921046067424,Rendah,11.669365301565762,Sering,Kanker,0
+96,62,Ringan,Sedang,Tidak,Tidak,Tidak,Tidak ada,129,63,Normal,30.730150720710327,Rendah,8.212054284103107,Kadang,Hipertensi,1
+97,58,Ringan,Jarang,Tidak,Tidak,Tidak,1 penyakit,133,74,Normal,21.113142575770468,Rendah,5.727901602954237,Tidak,Hipertensi,0
+98,46,Tidak,Sedang,Tidak,Tidak,Sedang,2+ penyakit,111,72,Normal,32.79394592248447,Rendah,6.364360476965945,Selalu,Diabetes,1
+99,32,Tidak,Sedang,Tidak,Tidak,Tidak,Tidak ada,121,87,Tinggi,17.347692951283115,Sedang,6.319878837424219,Kadang,Diabetes,0
+100,62,Tidak,Jarang,Sering,Sosial,Tidak,Tidak ada,149,69,Normal,33.14821065556399,Tinggi,4.306535241054977,Sering,Kanker,1
+101,18,Tidak,Tidak pernah,Sering,Tidak,Tinggi,2+ penyakit,112,87,Normal,23.136622080240127,Sedang,6.504864712447844,Kadang,Tidak ada,1
+102,42,Tidak,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,104,93,Normal,23.78650626087359,Tinggi,8.099243622732617,Tidak,Diabetes,0
+103,24,Sedang,Jarang,Sering,Tidak,Tinggi,2+ penyakit,142,86,Normal,15.549949144085286,Sedang,5.088651821384808,Sering,Jantung,0
+104,26,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,149,82,Normal,22.726026413111537,Sedang,8.572723976575888,Tidak,Tidak ada,1
+105,41,Tidak,Tidak pernah,Kadang-kadang,Tidak,Sedang,Tidak ada,120,70,Sedang,19.80096734486558,Sedang,7.731662231626507,Kadang,Jantung,1
+106,18,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,135,71,Normal,21.961768273132638,Rendah,5.898650017043443,Sering,Hipertensi,1
+107,61,Ringan,Sedang,Tidak,Tidak,Sedang,1 penyakit,140,92,Normal,24.3134451710556,Rendah,6.787705543993229,Kadang,Tidak ada,1
+108,25,Ringan,Sering,Tidak,Tidak,Tinggi,Tidak ada,108,87,Normal,29.78895807236453,Sedang,9.39748271146155,Sering,Kanker,0
+109,41,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,112,79,Tinggi,26.038016757003128,Rendah,8.1003217202588,Selalu,Hipertensi,0
+110,28,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,138,75,Normal,26.53838326700557,Rendah,7.013175482347222,Sering,Hipertensi,1
+111,68,Ringan,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,145,59,Normal,19.522403055772187,Sedang,6.643475024558524,Tidak,Jantung,1
+112,34,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,128,69,Sedang,20.596229551986347,Tinggi,7.114913605677489,Tidak,Hipertensi,1
+113,25,Sedang,Sering,Kadang-kadang,Sosial,Tidak,1 penyakit,106,99,Normal,33.993625091756556,Sedang,6.232354663086545,Sering,Diabetes,0
+114,52,Ringan,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,149,67,Normal,21.323994826183768,Tinggi,3.8428757414214783,Selalu,Tidak ada,1
+115,52,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,112,81,Normal,33.28104126028648,Sedang,10.063266865802095,Selalu,Diabetes,1
+116,50,Tidak,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,114,90,Sedang,23.784694005595668,Sedang,7.232987498799102,Selalu,Jantung,0
+117,22,Berat,Jarang,Tidak,Tidak,Tidak,1 penyakit,125,67,Normal,25.01143968071752,Sedang,7.597220897683806,Kadang,Jantung,0
+118,59,Tidak,Jarang,Kadang-kadang,Sosial,Sedang,Tidak ada,143,81,Sedang,30.351825801149648,Tinggi,6.913138375184637,Kadang,Tidak ada,1
+119,56,Tidak,Sedang,Tidak,Sosial,Sedang,1 penyakit,132,89,Sedang,31.359462109693283,Sedang,5.897324798913118,Kadang,Hipertensi,1
+120,58,Sedang,Tidak pernah,Kadang-kadang,Sosial,Tidak,1 penyakit,126,80,Normal,24.44593719860456,Sedang,6.721113278576844,Tidak,Kanker,0
+121,45,Sedang,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,126,108,Normal,23.058784732392304,Sedang,4.600907856708533,Tidak,Jantung,1
+122,24,Berat,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,120,63,Normal,24.720397757388934,Sedang,10.415629747079958,Selalu,Tidak ada,0
+123,26,Ringan,Sering,Kadang-kadang,Tidak,Tidak,1 penyakit,128,90,Sedang,26.689787641160592,Rendah,5.148232002366406,Kadang,Kanker,0
+124,25,Tidak,Sedang,Sering,Tidak,Tidak,Tidak ada,82,78,Normal,29.456518434348776,Rendah,5.452050574229231,Kadang,Hipertensi,1
+125,29,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,115,87,Normal,25.02114929497076,Rendah,6.339611193420399,Tidak,Jantung,0
+126,51,Ringan,Jarang,Tidak,Tidak,Tidak,2+ penyakit,123,84,Normal,28.094431490115767,Tinggi,8.932113587278566,Selalu,Tidak ada,1
+127,50,Tidak,Jarang,Kadang-kadang,Tidak,Tinggi,1 penyakit,102,72,Tinggi,33.1917986613547,Rendah,7.021763498893981,Sering,Tidak ada,1
+128,65,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,125,82,Normal,26.906548061323925,Rendah,5.145796305954306,Sering,Tidak ada,1
+129,40,Sedang,Sering,Tidak,Sosial,Tidak,Tidak ada,116,61,Tinggi,26.55826428002389,Sedang,8.88150754113601,Selalu,Jantung,0
+130,41,Tidak,Jarang,Tidak,Sering,Tidak,2+ penyakit,146,86,Normal,17.405445874549663,Rendah,8.096500940178222,Kadang,Kanker,1
+131,54,Tidak,Jarang,Sering,Sosial,Tidak,1 penyakit,143,82,Normal,11.846349315854683,Sedang,7.807652435824679,Sering,Tidak ada,0
+132,52,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,113,86,Normal,26.94187864615084,Rendah,8.07360136175626,Tidak,Hipertensi,1
+133,61,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,2+ penyakit,117,90,Normal,24.52587884359564,Tinggi,10.591542850873676,Tidak,Tidak ada,1
+134,57,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,118,83,Normal,22.42608662542629,Tinggi,10.277642342554168,Selalu,Kanker,1
+135,39,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,2+ penyakit,113,81,Normal,26.217651020931722,Tinggi,5.969926985495057,Sering,Jantung,1
+136,44,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,Tidak ada,122,71,Tinggi,24.697981354015457,Sedang,9.435827489216727,Kadang,Tidak ada,0
+137,52,Ringan,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,108,72,Sedang,30.638901253169493,Sedang,7.57475228463835,Kadang,Tidak ada,1
+138,18,Ringan,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,103,91,Sedang,25.43055434129489,Rendah,7.748643724206624,Sering,Hipertensi,1
+139,52,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,129,94,Normal,21.265383574649164,Rendah,4.461593752535007,Tidak,Hipertensi,0
+140,54,Berat,Tidak pernah,Sering,Tidak,Tidak,2+ penyakit,129,77,Normal,29.950831194796443,Rendah,6.744421351917706,Kadang,Tidak ada,0
+141,64,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,107,80,Normal,23.91434462526899,Sedang,5.780764614495153,Kadang,Tidak ada,1
+142,31,Tidak,Sedang,Sering,Tidak,Tidak,1 penyakit,133,70,Sedang,27.632683418361538,Sedang,8.242088222339964,Kadang,Hipertensi,1
+143,20,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,110,91,Tinggi,22.612946469035997,Sedang,8.606620750604208,Selalu,Kanker,1
+144,18,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,123,86,Normal,21.75086557251282,Rendah,3.888270473475533,Kadang,Diabetes,1
+145,22,Berat,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,132,99,Normal,25.42084115092848,Sedang,6.966947703993594,Tidak,Diabetes,0
+146,43,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,119,71,Normal,25.064143217718424,Sedang,8.682792257191378,Sering,Tidak ada,1
+147,31,Berat,Sering,Kadang-kadang,Sosial,Tinggi,Tidak ada,126,76,Normal,27.399135176834164,Sedang,6.719981556529833,Selalu,Hipertensi,0
+148,56,Tidak,Sedang,Kadang-kadang,Tidak,Tinggi,1 penyakit,112,82,Normal,23.656771233451288,Sedang,8.093595467503548,Kadang,Jantung,0
+149,44,Sedang,Tidak pernah,Tidak,Tidak,Sedang,1 penyakit,117,86,Sedang,15.818201081148013,Rendah,7.526748201440626,Tidak,Jantung,1
+150,26,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,116,77,Sedang,22.836130582058058,Tinggi,7.5124903479289395,Kadang,Diabetes,1
+151,32,Berat,Tidak pernah,Kadang-kadang,Sosial,Sedang,Tidak ada,108,71,Normal,28.96909233571908,Sedang,6.593027532897554,Sering,Kanker,0
+152,32,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,117,88,Normal,23.513119603784467,Rendah,5.175128793796436,Sering,Diabetes,0
+153,43,Tidak,Tidak pernah,Kadang-kadang,Tidak,Sedang,Tidak ada,96,87,Tinggi,23.76808298742726,Rendah,5.317704778862459,Selalu,Tidak ada,0
+154,59,Berat,Jarang,Kadang-kadang,Sosial,Tidak,1 penyakit,112,70,Normal,29.931882529529688,Sedang,8.064028771682976,Selalu,Kanker,0
+155,30,Tidak,Jarang,Tidak,Sosial,Sedang,2+ penyakit,115,93,Normal,21.440133863705388,Tinggi,7.029187383278325,Sering,Jantung,1
+156,68,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,116,91,Normal,17.285983908785504,Sedang,6.792231633089163,Sering,Hipertensi,0
+157,49,Ringan,Sedang,Tidak,Sosial,Sedang,Tidak ada,116,81,Normal,24.196844402372527,Rendah,6.364164936516471,Kadang,Hipertensi,1
+158,56,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,119,80,Normal,22.579130243756314,Tinggi,6.542216731778872,Tidak,Tidak ada,0
+159,66,Ringan,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,127,85,Sedang,20.16876840123373,Sedang,8.570367691732208,Selalu,Diabetes,1
+160,69,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,133,71,Normal,24.123107720506546,Sedang,6.49713387719796,Kadang,Tidak ada,1
+161,49,Sedang,Jarang,Tidak,Tidak,Tinggi,2+ penyakit,110,80,Normal,27.45752823623392,Sedang,4.988402930047647,Tidak,Hipertensi,0
+162,21,Tidak,Jarang,Tidak,Sosial,Tidak,Tidak ada,101,58,Sedang,24.953557192160922,Rendah,8.11547766331026,Sering,Jantung,1
+163,47,Tidak,Jarang,Kadang-kadang,Tidak,Sedang,1 penyakit,104,88,Normal,26.53490536343119,Sedang,6.692685004202924,Kadang,Hipertensi,1
+164,54,Berat,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,112,64,Sedang,34.06703849257711,Rendah,7.047093798299165,Sering,Kanker,0
+165,40,Sedang,Sedang,Tidak,Sosial,Tidak,2+ penyakit,114,95,Sedang,23.28560569221218,Tinggi,9.411367459599266,Sering,Hipertensi,1
+166,56,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,108,76,Normal,26.391743173223347,Sedang,6.969159163974239,Kadang,Hipertensi,1
+167,62,Ringan,Jarang,Tidak,Tidak,Tidak,2+ penyakit,100,77,Sedang,22.453933187004328,Sedang,7.433775509678088,Selalu,Kanker,0
+168,32,Tidak,Tidak pernah,Tidak,Tidak,Sedang,1 penyakit,113,73,Normal,20.768201400565136,Sedang,5.231614763052512,Kadang,Diabetes,1
+169,60,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,122,77,Tinggi,22.07546173291115,Tinggi,6.67049582147356,Kadang,Hipertensi,1
+170,46,Tidak,Jarang,Kadang-kadang,Sosial,Tidak,Tidak ada,128,94,Normal,22.606207142391558,Tinggi,7.914289067812902,Sering,Tidak ada,0
+171,53,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,2+ penyakit,111,55,Tinggi,26.797378987735627,Sedang,4.666939399238137,Sering,Hipertensi,0
+172,30,Tidak,Sering,Kadang-kadang,Sering,Tidak,Tidak ada,113,92,Sedang,36.74537893350379,Sedang,7.301267639673564,Sering,Tidak ada,0
+173,49,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,106,83,Normal,21.4197828186208,Sedang,7.151186608967209,Kadang,Kanker,1
+174,24,Berat,Sering,Tidak,Tidak,Tinggi,Tidak ada,119,67,Normal,22.91687347192269,Sedang,7.061931183381159,Sering,Hipertensi,0
+175,68,Berat,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,107,69,Tinggi,24.68438493444376,Rendah,8.555738347987365,Tidak,Kanker,0
+176,39,Ringan,Tidak pernah,Tidak,Tidak,Sedang,1 penyakit,128,96,Sedang,26.978994243548737,Sedang,7.501657772272782,Selalu,Kanker,0
+177,45,Tidak,Jarang,Tidak,Tidak,Sedang,1 penyakit,93,70,Normal,26.317754059773925,Rendah,9.217107847534667,Kadang,Diabetes,0
+178,19,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,114,68,Sedang,31.420478969740586,Tinggi,5.509615726608946,Sering,Hipertensi,1
+179,59,Sedang,Sedang,Tidak,Tidak,Tinggi,1 penyakit,124,91,Normal,12.86803964732396,Rendah,7.203886850827522,Tidak,Tidak ada,0
+180,62,Ringan,Sedang,Tidak,Tidak,Tidak,1 penyakit,122,83,Normal,13.065350649021637,Tinggi,7.126700179584921,Kadang,Tidak ada,1
+181,23,Tidak,Jarang,Tidak,Sosial,Tidak,2+ penyakit,160,70,Normal,22.520609139949254,Sedang,5.39611825936738,Kadang,Hipertensi,0
+182,45,Sedang,Jarang,Tidak,Tidak,Sedang,2+ penyakit,125,82,Normal,30.486500937718546,Sedang,8.434442503137019,Selalu,Diabetes,1
+183,45,Sedang,Sedang,Tidak,Sosial,Tidak,Tidak ada,104,69,Sedang,17.17175984197202,Sedang,10.487009958779227,Sering,Diabetes,0
+184,61,Sedang,Tidak pernah,Kadang-kadang,Tidak,Sedang,1 penyakit,118,91,Normal,9.961838301531214,Rendah,6.974490888274254,Selalu,Diabetes,1
+185,61,Ringan,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,93,90,Sedang,27.855897031096042,Rendah,7.75753163241065,Kadang,Tidak ada,1
+186,37,Ringan,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,118,85,Normal,26.21828611851357,Rendah,7.126777713722991,Kadang,Kanker,1
+187,47,Tidak,Sering,Kadang-kadang,Tidak,Sedang,Tidak ada,107,83,Normal,19.548957966002853,Sedang,5.929622995139236,Tidak,Diabetes,0
+188,28,Sedang,Sering,Sering,Sosial,Tidak,Tidak ada,133,97,Normal,20.07230199639535,Sedang,4.268859583296976,Selalu,Tidak ada,1
+189,45,Sedang,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,111,79,Normal,20.15128140182663,Sedang,5.941339775356952,Kadang,Tidak ada,1
+190,42,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,118,68,Normal,25.5526765873697,Rendah,4.912062428572403,Selalu,Kanker,0
+191,56,Tidak,Sering,Tidak,Tidak,Tinggi,Tidak ada,110,84,Normal,21.868423619084965,Rendah,9.556153117088677,Selalu,Hipertensi,0
+192,50,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,146,100,Normal,27.470319594877598,Sedang,6.827335459115141,Selalu,Hipertensi,1
+193,18,Sedang,Jarang,Kadang-kadang,Sosial,Tidak,Tidak ada,115,69,Normal,10.726866685478045,Tinggi,6.481121006429244,Sering,Diabetes,1
+194,44,Berat,Sering,Tidak,Tidak,Tidak,Tidak ada,147,76,Normal,20.715740674361005,Sedang,8.333730737181709,Sering,Diabetes,0
+195,69,Tidak,Tidak pernah,Sering,Tidak,Sedang,1 penyakit,132,84,Normal,19.36973019544475,Sedang,5.3173733457161685,Sering,Kanker,0
+196,30,Tidak,Jarang,Tidak,Sering,Tidak,Tidak ada,127,79,Sedang,23.71829660813754,Sedang,5.849703942993171,Tidak,Diabetes,1
+197,58,Tidak,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,125,70,Tinggi,22.309761207549307,Rendah,7.102108403872932,Sering,Kanker,0
+198,20,Berat,Sering,Tidak,Sosial,Tidak,1 penyakit,125,91,Normal,28.989218899478832,Tinggi,8.543153487135221,Tidak,Tidak ada,0
+199,56,Sedang,Sering,Tidak,Tidak,Tidak,Tidak ada,91,103,Normal,15.703316141699712,Sedang,7.752527567753182,Kadang,Diabetes,0
+200,23,Sedang,Sering,Tidak,Tidak,Sedang,Tidak ada,115,81,Normal,25.22745738165376,Rendah,7.372487713773824,Tidak,Tidak ada,1
+201,25,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,132,70,Tinggi,27.791682116058528,Sedang,7.117176602854024,Tidak,Jantung,1
+202,44,Tidak,Sedang,Tidak,Sosial,Tidak,2+ penyakit,119,64,Normal,34.28323718280977,Rendah,7.600353783290163,Kadang,Kanker,1
+203,26,Tidak,Sedang,Tidak,Sering,Tinggi,1 penyakit,98,82,Normal,22.591170144532626,Tinggi,7.302479357693882,Kadang,Jantung,0
+204,54,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,119,91,Normal,26.622293021762584,Rendah,5.455041587834597,Sering,Diabetes,1
+205,50,Sedang,Sedang,Tidak,Tidak,Tinggi,1 penyakit,145,84,Normal,15.980686037188175,Sedang,7.069118832449727,Tidak,Tidak ada,0
+206,68,Sedang,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,138,79,Normal,13.040218978434881,Rendah,5.389467011623371,Sering,Diabetes,0
+207,59,Berat,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,119,74,Sedang,29.2238718789085,Sedang,7.121623814351236,Tidak,Jantung,0
+208,61,Berat,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,134,69,Normal,24.97219853175965,Sedang,6.279028087767638,Sering,Diabetes,0
+209,41,Tidak,Tidak pernah,Tidak,Sering,Tidak,Tidak ada,114,88,Sedang,30.892563448992114,Sedang,10.809072434174292,Sering,Hipertensi,0
+210,32,Ringan,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,94,89,Normal,18.132985555151254,Sedang,6.940158424372432,Sering,Jantung,1
+211,49,Sedang,Jarang,Tidak,Tidak,Sedang,Tidak ada,106,64,Normal,27.599510697643762,Tinggi,4.893640650607617,Sering,Diabetes,1
+212,49,Sedang,Jarang,Tidak,Tidak,Sedang,Tidak ada,143,95,Tinggi,34.34408920271927,Rendah,6.798729683984613,Kadang,Tidak ada,0
+213,41,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,2+ penyakit,115,85,Normal,27.09852804178633,Rendah,7.779038118456832,Sering,Diabetes,0
+214,58,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,116,93,Sedang,26.382907527955243,Rendah,9.510045919228785,Kadang,Tidak ada,1
+215,69,Tidak,Jarang,Tidak,Tidak,Sedang,1 penyakit,115,66,Normal,25.04278040412175,Tinggi,6.115821400091923,Kadang,Hipertensi,1
+216,66,Berat,Jarang,Kadang-kadang,Sosial,Tidak,Tidak ada,148,66,Normal,17.145592714370437,Rendah,4.62635803896454,Sering,Diabetes,0
+217,66,Ringan,Sedang,Tidak,Tidak,Sedang,2+ penyakit,144,78,Tinggi,31.77786467855174,Sedang,8.225255517146472,Tidak,Hipertensi,0
+218,69,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,153,85,Normal,21.94571180097467,Sedang,4.929101941150523,Sering,Jantung,0
+219,29,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,117,97,Sedang,27.522416281915085,Rendah,6.345766837738773,Sering,Tidak ada,0
+220,56,Ringan,Sedang,Sering,Sosial,Tidak,1 penyakit,124,87,Normal,17.18482846714373,Rendah,6.613569271733509,Kadang,Jantung,0
+221,19,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,97,77,Sedang,19.1027016774611,Rendah,6.895549820049838,Tidak,Tidak ada,0
+222,20,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,142,69,Normal,32.17543699611117,Sedang,8.033746685611504,Tidak,Hipertensi,1
+223,66,Ringan,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,102,92,Normal,23.263488555210785,Rendah,5.9745485765704185,Selalu,Kanker,1
+224,54,Tidak,Sedang,Tidak,Tidak,Tidak,Tidak ada,123,70,Sedang,32.266377380212724,Rendah,6.5894061217498585,Sering,Diabetes,1
+225,66,Ringan,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,103,96,Tinggi,24.60884670470741,Tinggi,6.978594470575917,Tidak,Hipertensi,0
+226,34,Tidak,Sedang,Sering,Tidak,Tidak,Tidak ada,111,77,Tinggi,15.790511135210712,Tinggi,7.224396936278182,Kadang,Tidak ada,0
+227,66,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,107,95,Sedang,29.460337998658602,Rendah,7.146740762061884,Sering,Tidak ada,1
+228,19,Tidak,Sering,Kadang-kadang,Tidak,Sedang,Tidak ada,110,86,Sedang,22.05053841122196,Rendah,7.65400866283387,Selalu,Tidak ada,1
+229,19,Tidak,Sedang,Kadang-kadang,Sosial,Tinggi,Tidak ada,111,78,Normal,28.493444067585216,Rendah,8.265759264462606,Tidak,Tidak ada,0
+230,45,Sedang,Sering,Tidak,Sosial,Tidak,1 penyakit,111,74,Normal,25.12605433770041,Sedang,7.588951173476452,Kadang,Diabetes,1
+231,40,Tidak,Jarang,Tidak,Tidak,Tinggi,2+ penyakit,132,76,Normal,17.284408860285648,Tinggi,7.680378285263828,Selalu,Jantung,0
+232,54,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,103,84,Normal,25.821473826852845,Rendah,4.626665249880284,Tidak,Kanker,1
+233,49,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,123,80,Normal,35.981115710763994,Rendah,7.07534154874852,Kadang,Diabetes,0
+234,50,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,138,74,Normal,27.464932292572296,Sedang,7.719261322002413,Selalu,Tidak ada,1
+235,18,Ringan,Jarang,Sering,Tidak,Tidak,2+ penyakit,112,78,Normal,24.712411234972684,Sedang,8.093411791855676,Sering,Diabetes,0
+236,36,Ringan,Sedang,Tidak,Tidak,Sedang,Tidak ada,109,80,Sedang,30.37671700978449,Rendah,5.961473838649309,Kadang,Hipertensi,1
+237,19,Tidak,Sering,Tidak,Tidak,Sedang,Tidak ada,116,58,Normal,26.053342326015553,Sedang,6.011441087667032,Tidak,Tidak ada,0
+238,61,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,1 penyakit,137,84,Normal,26.04767115131397,Rendah,6.138848987074603,Tidak,Kanker,1
+239,43,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,122,70,Normal,19.541874139204488,Rendah,7.804620849837015,Kadang,Tidak ada,1
+240,49,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,112,68,Sedang,26.16924012894799,Sedang,8.550821582386313,Selalu,Kanker,1
+241,23,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,127,63,Sedang,30.177217082084724,Tinggi,6.388809839062597,Kadang,Kanker,1
+242,49,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,103,62,Sedang,20.819689239499876,Sedang,8.361943470440574,Sering,Jantung,1
+243,21,Tidak,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,130,66,Normal,32.122479106234735,Tinggi,7.185219713746891,Selalu,Jantung,1
+244,28,Sedang,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,126,72,Normal,24.54146987927437,Sedang,6.813571334256346,Kadang,Diabetes,0
+245,34,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,115,99,Normal,20.561152442307296,Sedang,6.682923655273046,Tidak,Diabetes,0
+246,55,Tidak,Tidak pernah,Tidak,Sosial,Tidak,1 penyakit,107,74,Normal,29.988160384601223,Sedang,8.119917046903236,Sering,Kanker,1
+247,41,Ringan,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,106,81,Normal,23.566028821308652,Tinggi,7.488366725180605,Selalu,Tidak ada,1
+248,22,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,128,84,Normal,28.79757443743054,Tinggi,10.413738141471455,Selalu,Hipertensi,0
+249,69,Ringan,Tidak pernah,Kadang-kadang,Sosial,Tidak,Tidak ada,138,81,Normal,23.541206838707314,Rendah,5.7216630355040135,Tidak,Hipertensi,0
+250,51,Sedang,Sering,Tidak,Sosial,Tidak,1 penyakit,110,79,Tinggi,24.70086928235048,Tinggi,7.777152553044964,Sering,Tidak ada,1
+251,23,Sedang,Jarang,Tidak,Sosial,Tidak,2+ penyakit,126,68,Tinggi,27.46780102167146,Tinggi,6.206198485282731,Sering,Tidak ada,0
+252,39,Tidak,Jarang,Tidak,Tidak,Tinggi,2+ penyakit,88,94,Normal,26.45448528795003,Sedang,5.696069519517034,Selalu,Jantung,1
+253,28,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,111,98,Normal,15.022341097741307,Rendah,6.983699294447542,Tidak,Hipertensi,0
+254,65,Tidak,Tidak pernah,Kadang-kadang,Sering,Tidak,Tidak ada,119,63,Normal,19.39378129952804,Tinggi,7.206028719110554,Sering,Kanker,1
+255,33,Tidak,Sering,Tidak,Sosial,Tidak,2+ penyakit,106,69,Normal,29.64704992395408,Tinggi,11.377260332590138,Selalu,Diabetes,0
+256,50,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,105,77,Tinggi,24.339317055492263,Rendah,6.723781276475197,Kadang,Jantung,1
+257,26,Berat,Tidak pernah,Tidak,Tidak,Sedang,2+ penyakit,109,70,Normal,22.381343486142892,Tinggi,5.304731905772975,Kadang,Hipertensi,0
+258,23,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,124,85,Sedang,18.20712992371263,Rendah,7.409516076241578,Tidak,Tidak ada,1
+259,33,Tidak,Sedang,Tidak,Sosial,Tidak,1 penyakit,117,72,Normal,19.60131839362076,Rendah,3.8880399436804476,Kadang,Hipertensi,1
+260,46,Ringan,Sering,Sering,Tidak,Tidak,1 penyakit,86,101,Tinggi,14.891006800190263,Sedang,6.862064826093601,Kadang,Kanker,1
+261,20,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,88,91,Normal,24.493596406492337,Sedang,7.024037923442741,Selalu,Jantung,1
+262,37,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,110,82,Sedang,22.007812097094764,Sedang,8.191900574417817,Kadang,Tidak ada,1
+263,53,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,126,90,Normal,20.167060545073426,Rendah,8.46043337414177,Kadang,Kanker,0
+264,36,Tidak,Sering,Tidak,Sosial,Tidak,1 penyakit,78,91,Sedang,24.659382874160233,Tinggi,6.244645571638424,Sering,Diabetes,1
+265,43,Tidak,Tidak pernah,Kadang-kadang,Tidak,Sedang,Tidak ada,112,74,Normal,26.81985315426369,Rendah,6.7740789780551,Tidak,Jantung,0
+266,20,Tidak,Sering,Kadang-kadang,Sosial,Sedang,Tidak ada,112,71,Normal,35.465989661049726,Rendah,5.850818754083994,Kadang,Kanker,1
+267,36,Ringan,Jarang,Sering,Sering,Sedang,2+ penyakit,140,80,Tinggi,17.440582902183934,Rendah,5.30790616778846,Sering,Kanker,0
+268,37,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,114,88,Tinggi,30.79690521650261,Sedang,7.464842169070952,Selalu,Tidak ada,0
+269,49,Tidak,Jarang,Tidak,Tidak,Tidak,2+ penyakit,125,81,Sedang,29.86550780507536,Tinggi,5.089621677105101,Sering,Diabetes,0
+270,24,Sedang,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,122,64,Sedang,21.104536303116497,Sedang,6.378059649142205,Sering,Kanker,1
+271,69,Tidak,Tidak pernah,Tidak,Sosial,Sedang,1 penyakit,88,71,Sedang,26.016179772930155,Tinggi,5.507239060151144,Tidak,Jantung,1
+272,58,Ringan,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,131,79,Normal,22.711833753311925,Rendah,7.824524779435389,Selalu,Kanker,1
+273,50,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,123,79,Normal,25.928442902093696,Sedang,9.702145148899731,Tidak,Hipertensi,0
+274,57,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,127,99,Normal,32.54565506702275,Sedang,5.047618025795003,Sering,Jantung,0
+275,56,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,178,66,Sedang,28.028031163156566,Sedang,4.220472275653647,Kadang,Jantung,1
+276,35,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,88,85,Normal,27.54304186616721,Rendah,6.8126696719748985,Selalu,Kanker,1
+277,57,Tidak,Sering,Tidak,Tidak,Tidak,1 penyakit,145,94,Normal,22.848453400226788,Sedang,7.0235466939366376,Sering,Tidak ada,0
+278,18,Tidak,Sedang,Tidak,Tidak,Sedang,2+ penyakit,115,102,Normal,17.579716675378325,Sedang,7.327988960135946,Sering,Jantung,1
+279,28,Tidak,Sering,Tidak,Tidak,Tidak,Tidak ada,124,75,Sedang,23.95765894729796,Sedang,6.330519227148483,Kadang,Hipertensi,1
+280,45,Tidak,Sering,Tidak,Sosial,Tidak,Tidak ada,119,84,Normal,31.033040774319574,Sedang,6.699041051761852,Kadang,Tidak ada,1
+281,42,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,113,85,Normal,17.36416071705176,Rendah,7.5512656158109035,Sering,Tidak ada,1
+282,67,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,111,81,Normal,19.724553159116525,Sedang,8.560646338967258,Sering,Tidak ada,1
+283,40,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,Tidak ada,124,79,Normal,25.63133868117034,Rendah,4.067426844522576,Tidak,Jantung,1
+284,48,Tidak,Jarang,Tidak,Tidak,Sedang,1 penyakit,97,84,Normal,20.076726075763688,Tinggi,6.446590841452807,Selalu,Tidak ada,0
+285,47,Ringan,Tidak pernah,Tidak,Sering,Tidak,1 penyakit,131,54,Sedang,21.03738276442394,Sedang,7.3207131909115954,Selalu,Kanker,1
+286,59,Tidak,Sedang,Kadang-kadang,Tidak,Sedang,1 penyakit,113,86,Sedang,22.882007091359114,Rendah,5.623035843083896,Kadang,Tidak ada,1
+287,52,Ringan,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,103,81,Sedang,18.171912979049253,Tinggi,9.59675444765095,Selalu,Hipertensi,0
+288,24,Ringan,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,113,77,Normal,20.129390768918157,Sedang,6.046885179656894,Sering,Diabetes,1
+289,33,Tidak,Jarang,Tidak,Sosial,Sedang,Tidak ada,138,100,Sedang,28.517139583936544,Rendah,6.938060969489076,Kadang,Hipertensi,1
+290,43,Sedang,Jarang,Tidak,Tidak,Tidak,Tidak ada,111,73,Normal,18.46315108884518,Sedang,7.834033145263437,Kadang,Jantung,1
+291,65,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,125,75,Normal,17.010639327525812,Rendah,6.113072816797159,Sering,Tidak ada,0
+292,69,Tidak,Tidak pernah,Sering,Tidak,Tidak,1 penyakit,109,99,Sedang,21.84987510233053,Tinggi,4.2301404282933746,Sering,Tidak ada,0
+293,66,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,131,71,Normal,28.65977751254923,Tinggi,6.3570182096252,Kadang,Kanker,1
+294,19,Sedang,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,130,74,Normal,24.01539096001555,Tinggi,8.544160833890562,Sering,Tidak ada,0
+295,18,Ringan,Tidak pernah,Kadang-kadang,Sosial,Tidak,Tidak ada,147,78,Sedang,22.677094609421907,Sedang,6.494657309822292,Sering,Hipertensi,1
+296,65,Tidak,Sedang,Tidak,Sosial,Sedang,Tidak ada,117,88,Normal,25.221793987578035,Sedang,5.730348547811532,Sering,Jantung,1
+297,29,Tidak,Sering,Tidak,Tidak,Sedang,Tidak ada,130,82,Sedang,16.27146283570174,Sedang,8.388508314254082,Tidak,Diabetes,1
+298,22,Tidak,Sedang,Tidak,Sering,Tidak,Tidak ada,121,67,Normal,27.473528268875164,Rendah,6.503837655965421,Selalu,Tidak ada,0
+299,54,Tidak,Sedang,Sering,Tidak,Tinggi,Tidak ada,139,74,Sedang,26.91717515701822,Sedang,6.234758779524674,Kadang,Diabetes,0
+300,49,Ringan,Jarang,Tidak,Sering,Tidak,1 penyakit,109,73,Normal,22.953457629521395,Sedang,7.224184134494965,Kadang,Tidak ada,1
+301,26,Tidak,Jarang,Kadang-kadang,Tidak,Tinggi,1 penyakit,131,79,Normal,30.029622558982084,Rendah,8.15612531442818,Kadang,Jantung,0
+302,58,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,117,84,Sedang,19.362519505234808,Sedang,10.57257029759882,Kadang,Hipertensi,1
+303,52,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,119,84,Normal,30.639544966267845,Tinggi,8.240854161486135,Selalu,Jantung,1
+304,36,Tidak,Jarang,Tidak,Sosial,Tidak,2+ penyakit,121,62,Normal,25.772468327976256,Tinggi,8.739759949582517,Kadang,Diabetes,0
+305,65,Tidak,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,123,90,Normal,23.317237050609133,Rendah,6.241050701518217,Sering,Tidak ada,1
+306,33,Ringan,Sedang,Kadang-kadang,Tidak,Tidak,2+ penyakit,118,82,Normal,24.90063182315844,Rendah,5.461197841045785,Tidak,Diabetes,0
+307,20,Sedang,Jarang,Tidak,Tidak,Sedang,2+ penyakit,123,93,Normal,24.46367617094529,Rendah,7.093497024428684,Kadang,Hipertensi,1
+308,37,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,2+ penyakit,143,84,Normal,31.101414482088586,Tinggi,7.160754872889394,Selalu,Jantung,0
+309,41,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,134,91,Tinggi,19.61660436264493,Rendah,5.382230887953105,Sering,Diabetes,1
+310,50,Tidak,Jarang,Sering,Sosial,Sedang,Tidak ada,133,84,Normal,21.18740380426701,Sedang,6.737058205143981,Kadang,Diabetes,1
+311,41,Tidak,Tidak pernah,Tidak,Sosial,Tidak,1 penyakit,113,93,Normal,30.1815144603624,Rendah,7.598976402578696,Sering,Hipertensi,1
+312,69,Tidak,Sedang,Tidak,Tidak,Tinggi,1 penyakit,106,85,Normal,22.022325324080704,Sedang,7.54059009252712,Kadang,Tidak ada,0
+313,28,Tidak,Jarang,Tidak,Sosial,Sedang,1 penyakit,134,79,Normal,29.50266538665796,Rendah,7.756431780076409,Kadang,Diabetes,0
+314,66,Tidak,Jarang,Sering,Tidak,Tinggi,1 penyakit,133,102,Tinggi,33.497179915043546,Sedang,7.436447095206164,Sering,Hipertensi,0
+315,25,Tidak,Jarang,Sering,Sosial,Sedang,Tidak ada,142,88,Normal,22.99102486529183,Rendah,6.2394870110949165,Sering,Tidak ada,0
+316,53,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,110,85,Tinggi,28.406811632876526,Sedang,6.229149060026735,Kadang,Tidak ada,0
+317,55,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,116,67,Normal,19.23153859330071,Rendah,5.201572903009186,Selalu,Jantung,0
+318,57,Tidak,Jarang,Tidak,Sosial,Sedang,1 penyakit,95,67,Sedang,28.773666490339046,Sedang,9.677162558777642,Sering,Hipertensi,0
+319,37,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,114,82,Normal,25.997119929933834,Tinggi,7.0201755469289395,Kadang,Tidak ada,1
+320,52,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,134,81,Sedang,27.365191410801074,Rendah,6.662720416307722,Sering,Jantung,0
+321,65,Sedang,Sedang,Kadang-kadang,Sosial,Tidak,Tidak ada,113,73,Normal,21.772139639823024,Tinggi,5.606811877821312,Sering,Kanker,0
+322,42,Tidak,Sedang,Tidak,Tidak,Tinggi,2+ penyakit,129,81,Normal,16.694582922164138,Sedang,11.403486853491668,Sering,Hipertensi,0
+323,52,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,117,95,Normal,27.516260323747524,Rendah,5.390007951665657,Kadang,Kanker,1
+324,42,Ringan,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,124,86,Normal,14.682984237602728,Sedang,6.35672811159089,Sering,Tidak ada,1
+325,46,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,Tidak ada,102,68,Tinggi,23.413247538787324,Rendah,7.62375525442909,Tidak,Hipertensi,1
+326,35,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,121,78,Normal,29.70590933209985,Sedang,7.9003194486164166,Selalu,Jantung,1
+327,63,Tidak,Sedang,Tidak,Tidak,Tidak,Tidak ada,75,71,Normal,25.95948867936518,Sedang,8.436898082823525,Sering,Tidak ada,1
+328,35,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,117,76,Sedang,34.74171322394906,Rendah,9.711412761653895,Tidak,Hipertensi,1
+329,19,Ringan,Jarang,Tidak,Sosial,Tidak,Tidak ada,95,75,Normal,30.125545762908867,Sedang,7.759236483191069,Sering,Hipertensi,1
+330,52,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,138,75,Tinggi,21.730508058372116,Tinggi,5.415953800049999,Selalu,Kanker,1
+331,33,Tidak,Sedang,Sering,Tidak,Tidak,1 penyakit,131,67,Sedang,25.136566899257193,Tinggi,6.614582312317328,Selalu,Tidak ada,1
+332,58,Tidak,Tidak pernah,Tidak,Tidak,Sedang,2+ penyakit,127,78,Normal,24.76314648727782,Sedang,7.461748558770827,Kadang,Jantung,1
+333,53,Tidak,Sedang,Tidak,Tidak,Sedang,Tidak ada,142,74,Sedang,17.089116183269365,Tinggi,10.102339062258736,Tidak,Jantung,1
+334,50,Ringan,Sedang,Tidak,Tidak,Tidak,2+ penyakit,105,50,Normal,20.298005417578235,Sedang,4.903291782363555,Sering,Tidak ada,1
+335,21,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,146,100,Normal,22.1961954651007,Rendah,8.803864757837841,Tidak,Tidak ada,1
+336,50,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,133,90,Normal,14.818897485720317,Tinggi,7.269871554319625,Selalu,Diabetes,0
+337,31,Berat,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,116,76,Normal,25.237467341258213,Sedang,8.256745802844222,Tidak,Kanker,0
+338,38,Ringan,Jarang,Sering,Tidak,Tidak,Tidak ada,137,80,Sedang,23.754640776734796,Sedang,6.847007925046102,Kadang,Tidak ada,0
+339,65,Tidak,Sedang,Tidak,Sosial,Tidak,1 penyakit,103,68,Tinggi,16.63553049344213,Sedang,5.736351054810511,Kadang,Tidak ada,0
+340,37,Tidak,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,107,96,Normal,27.02106432638666,Tinggi,8.126309169101997,Kadang,Diabetes,1
+341,25,Tidak,Sedang,Kadang-kadang,Sering,Tidak,Tidak ada,110,98,Normal,28.579363723454797,Tinggi,7.981646540658431,Sering,Diabetes,0
+342,24,Tidak,Sedang,Tidak,Tidak,Tidak,2+ penyakit,112,81,Tinggi,26.135172394324446,Sedang,8.458085448609584,Kadang,Hipertensi,0
+343,20,Tidak,Jarang,Sering,Tidak,Tidak,Tidak ada,104,90,Normal,23.37965912395515,Rendah,6.980043046932047,Tidak,Jantung,0
+344,34,Tidak,Tidak pernah,Tidak,Tidak,Sedang,1 penyakit,138,81,Normal,27.957210758759274,Sedang,6.100266965020226,Kadang,Kanker,1
+345,50,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,116,66,Normal,28.401101802383454,Sedang,4.661819507464237,Sering,Hipertensi,1
+346,65,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,125,75,Tinggi,26.537017848598442,Rendah,8.229059902209109,Tidak,Tidak ada,0
+347,29,Sedang,Sering,Kadang-kadang,Tidak,Tidak,Tidak ada,111,81,Normal,20.876938747826195,Sedang,7.635834223665979,Sering,Diabetes,0
+348,68,Tidak,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,92,75,Sedang,26.383003827555903,Sedang,5.551326050704061,Sering,Jantung,1
+349,39,Tidak,Tidak pernah,Kadang-kadang,Sosial,Tidak,Tidak ada,124,77,Sedang,30.977403254127395,Rendah,6.192139490055064,Sering,Hipertensi,1
+350,39,Tidak,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,91,79,Normal,22.01685470694135,Rendah,6.299861782072839,Selalu,Jantung,1
+351,63,Berat,Jarang,Tidak,Sosial,Tidak,Tidak ada,118,79,Normal,35.489696695662154,Rendah,4.775523352026372,Selalu,Diabetes,0
+352,47,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,99,80,Sedang,22.37184533007308,Tinggi,5.7734764050923,Selalu,Hipertensi,1
+353,55,Tidak,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,149,69,Normal,25.162035066700682,Rendah,5.299254464790469,Kadang,Hipertensi,1
+354,55,Berat,Sedang,Tidak,Tidak,Tidak,2+ penyakit,133,72,Sedang,21.637572019968317,Rendah,6.381281482168095,Tidak,Jantung,0
+355,62,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,121,67,Tinggi,26.116354179601306,Sedang,5.891953752505656,Kadang,Diabetes,0
+356,68,Sedang,Sering,Tidak,Tidak,Tidak,Tidak ada,138,89,Sedang,16.288891536823623,Rendah,4.559492618699877,Selalu,Tidak ada,1
+357,25,Tidak,Jarang,Sering,Tidak,Sedang,Tidak ada,107,58,Sedang,22.269791005916396,Rendah,10.033885345854223,Selalu,Hipertensi,1
+358,44,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,128,91,Sedang,19.539393998257164,Rendah,8.878811096543846,Selalu,Tidak ada,0
+359,44,Ringan,Sering,Kadang-kadang,Tidak,Tidak,Tidak ada,122,93,Sedang,25.676691739461454,Sedang,5.8314708677200215,Tidak,Diabetes,1
+360,51,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,123,76,Normal,29.97223687754454,Sedang,7.4086320949804145,Selalu,Hipertensi,0
+361,38,Tidak,Sering,Kadang-kadang,Sosial,Tidak,1 penyakit,139,53,Normal,28.230030935572756,Rendah,7.626197634731943,Kadang,Hipertensi,1
+362,47,Tidak,Jarang,Sering,Sosial,Tidak,Tidak ada,130,76,Normal,13.141703195705539,Sedang,8.786628782160214,Tidak,Tidak ada,0
+363,50,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,124,79,Sedang,35.2103482646394,Tinggi,5.7720924600098815,Kadang,Kanker,1
+364,45,Ringan,Jarang,Kadang-kadang,Sosial,Tidak,2+ penyakit,95,69,Normal,26.47639970310434,Rendah,8.638160175973638,Tidak,Tidak ada,0
+365,64,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,105,74,Sedang,21.117504297535,Rendah,6.178142043689597,Sering,Tidak ada,1
+366,50,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,118,95,Normal,25.785639594954706,Rendah,4.99620639374708,Kadang,Kanker,1
+367,22,Tidak,Jarang,Tidak,Sosial,Tidak,2+ penyakit,121,86,Sedang,25.880949112513463,Sedang,8.086204838971746,Kadang,Diabetes,1
+368,65,Tidak,Jarang,Tidak,Tidak,Tidak,2+ penyakit,103,70,Normal,21.665756415242182,Sedang,8.936137636183641,Sering,Diabetes,1
+369,36,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,156,64,Sedang,25.98958333671038,Rendah,10.881863460296028,Selalu,Hipertensi,1
+370,21,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,Tidak ada,142,76,Normal,21.962638561898466,Sedang,5.20041210236468,Sering,Jantung,0
+371,52,Ringan,Sedang,Tidak,Tidak,Tidak,1 penyakit,129,77,Normal,22.978190036549886,Rendah,8.048379527621183,Kadang,Jantung,0
+372,66,Tidak,Sering,Tidak,Tidak,Tidak,2+ penyakit,121,84,Normal,21.568604321224576,Sedang,6.3852981343097,Selalu,Hipertensi,0
+373,34,Tidak,Sering,Tidak,Sosial,Tidak,2+ penyakit,116,74,Sedang,17.836643551301737,Sedang,8.175038065786048,Selalu,Jantung,0
+374,61,Tidak,Sedang,Sering,Tidak,Sedang,Tidak ada,105,85,Normal,25.72918235107692,Rendah,4.794265673153124,Tidak,Tidak ada,0
+375,45,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,121,99,Normal,27.92649718258169,Sedang,5.105845336452154,Sering,Tidak ada,1
+376,47,Tidak,Sedang,Sering,Sering,Tidak,1 penyakit,123,88,Tinggi,27.57441798038186,Rendah,5.8361877652502745,Kadang,Kanker,0
+377,46,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,101,79,Sedang,29.09962626317617,Sedang,7.118446068502127,Tidak,Kanker,0
+378,63,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,125,78,Tinggi,26.621701050074343,Rendah,6.038378100192467,Sering,Hipertensi,1
+379,23,Tidak,Jarang,Tidak,Tidak,Tidak,2+ penyakit,117,76,Normal,22.33637250891548,Tinggi,7.98858151587013,Selalu,Hipertensi,1
+380,52,Tidak,Jarang,Tidak,Sosial,Sedang,1 penyakit,91,91,Normal,29.198319322155946,Rendah,8.540341927386871,Tidak,Hipertensi,1
+381,58,Berat,Sedang,Tidak,Sosial,Sedang,2+ penyakit,107,73,Sedang,18.212412300790326,Tinggi,7.899366311868034,Selalu,Tidak ada,1
+382,54,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,113,80,Normal,20.496643087437597,Rendah,9.428181459491302,Selalu,Jantung,0
+383,41,Sedang,Jarang,Tidak,Sosial,Tidak,1 penyakit,148,80,Sedang,20.178999642883777,Sedang,7.623739944183015,Selalu,Hipertensi,0
+384,46,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,128,74,Normal,30.40028029569655,Rendah,5.17465493448975,Kadang,Hipertensi,1
+385,66,Ringan,Sering,Kadang-kadang,Sosial,Tidak,1 penyakit,99,66,Normal,29.71394257070038,Tinggi,9.04506477030751,Selalu,Tidak ada,1
+386,63,Ringan,Jarang,Tidak,Sosial,Sedang,Tidak ada,127,83,Normal,27.436526185224974,Rendah,6.092265646591004,Kadang,Tidak ada,1
+387,48,Tidak,Jarang,Tidak,Sosial,Tidak,1 penyakit,96,79,Normal,30.359649326058985,Rendah,8.365627749528354,Sering,Tidak ada,1
+388,52,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,Tidak ada,136,85,Normal,20.60358608794006,Sedang,9.36060132483266,Tidak,Jantung,1
+389,50,Tidak,Sedang,Tidak,Sering,Tidak,1 penyakit,112,74,Normal,26.742975599304902,Rendah,7.685032016095599,Tidak,Hipertensi,1
+390,69,Tidak,Jarang,Tidak,Sosial,Tidak,Tidak ada,118,92,Tinggi,24.37412785808418,Rendah,4.755761780253025,Sering,Diabetes,0
+391,38,Sedang,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,139,71,Normal,29.23441051942457,Tinggi,5.622681750235312,Kadang,Diabetes,1
+392,49,Sedang,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,100,97,Sedang,24.423878837239013,Tinggi,8.984116700327704,Kadang,Hipertensi,1
+393,40,Berat,Jarang,Kadang-kadang,Tidak,Tinggi,Tidak ada,99,62,Sedang,23.075285557949595,Rendah,6.7463159715357754,Tidak,Hipertensi,0
+394,50,Tidak,Jarang,Sering,Sosial,Sedang,1 penyakit,111,84,Normal,27.70454259280495,Tinggi,7.119360302413249,Sering,Hipertensi,0
+395,20,Ringan,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,135,84,Normal,29.380845835956166,Sedang,8.138236624245414,Tidak,Hipertensi,1
+396,35,Sedang,Sering,Tidak,Sosial,Sedang,1 penyakit,97,72,Sedang,21.65827402576599,Rendah,8.044484293120485,Selalu,Jantung,1
+397,42,Tidak,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,77,84,Sedang,24.69462164323812,Sedang,7.418199718578191,Tidak,Diabetes,0
+398,59,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,113,92,Sedang,19.707796831791736,Sedang,6.686997443169301,Tidak,Kanker,1
+399,48,Ringan,Sering,Tidak,Tidak,Tidak,Tidak ada,128,57,Sedang,12.509694912535302,Tinggi,6.530997331401464,Kadang,Diabetes,0
+400,20,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,138,85,Tinggi,26.002298157068644,Rendah,8.286848237937015,Kadang,Diabetes,1
+401,57,Sedang,Jarang,Tidak,Tidak,Tidak,2+ penyakit,113,55,Normal,28.04452678127316,Sedang,7.83035429660169,Kadang,Tidak ada,0
+402,63,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,113,70,Normal,26.310334045433628,Rendah,6.614049999073315,Kadang,Hipertensi,1
+403,41,Ringan,Tidak pernah,Sering,Tidak,Tidak,Tidak ada,137,96,Sedang,15.252191411228164,Rendah,8.62316846948971,Selalu,Hipertensi,1
+404,67,Tidak,Sering,Kadang-kadang,Tidak,Tidak,Tidak ada,91,74,Normal,23.245752849617627,Rendah,6.806448827305324,Sering,Hipertensi,1
+405,49,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,114,68,Sedang,13.908261199744594,Tinggi,5.72250673849841,Tidak,Tidak ada,0
+406,64,Tidak,Sedang,Tidak,Sosial,Sedang,1 penyakit,122,78,Normal,31.848505538270924,Tinggi,5.8615439516449825,Kadang,Jantung,1
+407,39,Sedang,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,126,100,Normal,19.569727089409568,Sedang,5.531888745535351,Selalu,Jantung,1
+408,40,Ringan,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,112,61,Sedang,31.27701804729948,Sedang,6.591384975094469,Kadang,Kanker,1
+409,19,Tidak,Tidak pernah,Tidak,Sosial,Tinggi,Tidak ada,120,69,Normal,29.72934821842073,Rendah,8.850586417504289,Tidak,Jantung,0
+410,44,Tidak,Jarang,Tidak,Tidak,Tinggi,Tidak ada,82,94,Normal,20.497048237319692,Rendah,5.792357228454237,Sering,Jantung,0
+411,59,Sedang,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,110,98,Normal,19.336075243661277,Rendah,7.282713641527154,Sering,Hipertensi,1
+412,19,Tidak,Sedang,Tidak,Sosial,Tinggi,Tidak ada,126,78,Sedang,26.75185108193169,Rendah,6.0149659815588805,Sering,Diabetes,0
+413,43,Sedang,Jarang,Tidak,Tidak,Tidak,2+ penyakit,105,67,Normal,20.778379814084644,Sedang,6.609536438092844,Tidak,Jantung,0
+414,34,Tidak,Sering,Tidak,Tidak,Tinggi,1 penyakit,120,100,Sedang,25.512423210791038,Sedang,4.7349381820221215,Tidak,Jantung,0
+415,57,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,126,95,Normal,22.58586204596541,Rendah,6.669192656265194,Sering,Tidak ada,0
+416,50,Tidak,Sedang,Kadang-kadang,Sosial,Tidak,Tidak ada,114,86,Sedang,16.09420792767183,Rendah,6.709441930292557,Kadang,Kanker,1
+417,26,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,122,71,Sedang,13.847659904377705,Rendah,7.810431916053543,Sering,Tidak ada,1
+418,60,Ringan,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,105,79,Normal,26.133421242472984,Sedang,7.334921369883056,Sering,Hipertensi,1
+419,65,Tidak,Sedang,Tidak,Sering,Tidak,1 penyakit,116,78,Normal,22.192211268346874,Tinggi,5.202411812571932,Kadang,Diabetes,0
+420,56,Tidak,Sedang,Tidak,Sosial,Tidak,1 penyakit,129,83,Normal,22.234550915429338,Sedang,8.626297366065314,Selalu,Kanker,0
+421,46,Sedang,Jarang,Tidak,Tidak,Sedang,Tidak ada,122,94,Sedang,28.479319195468925,Tinggi,7.315454560332993,Selalu,Tidak ada,1
+422,59,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,111,88,Normal,30.867211383162225,Sedang,7.29759027576623,Sering,Jantung,1
+423,43,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,123,69,Sedang,23.637276393190955,Rendah,6.986226469922292,Tidak,Jantung,1
+424,52,Sedang,Sering,Kadang-kadang,Tidak,Sedang,2+ penyakit,130,93,Normal,23.297006465450693,Rendah,6.22336382916667,Tidak,Kanker,0
+425,67,Ringan,Jarang,Tidak,Tidak,Tidak,1 penyakit,89,83,Normal,27.500715165569417,Tinggi,7.326703509623089,Kadang,Jantung,0
+426,42,Tidak,Sedang,Tidak,Tidak,Tidak,1 penyakit,137,86,Normal,18.21532215150212,Sedang,7.713382653892873,Tidak,Tidak ada,0
+427,41,Sedang,Jarang,Tidak,Sosial,Tidak,Tidak ada,114,94,Normal,26.115765273738486,Rendah,4.379656462981668,Selalu,Tidak ada,1
+428,30,Ringan,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,126,68,Normal,27.75942985911077,Sedang,6.191858743980856,Tidak,Jantung,0
+429,24,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,137,79,Sedang,28.401151042088145,Sedang,6.617579544394616,Kadang,Jantung,0
+430,53,Tidak,Jarang,Sering,Sosial,Tinggi,Tidak ada,99,74,Sedang,15.316236487487675,Sedang,7.384255908541418,Kadang,Hipertensi,0
+431,62,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,109,64,Normal,21.193223650955296,Tinggi,8.78996650889069,Sering,Diabetes,0
+432,37,Ringan,Tidak pernah,Sering,Tidak,Tidak,1 penyakit,115,83,Tinggi,20.608683735882668,Sedang,5.8423887781048265,Tidak,Kanker,0
+433,18,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,108,105,Sedang,25.499434772046065,Sedang,6.253057229773237,Kadang,Tidak ada,1
+434,25,Sedang,Tidak pernah,Tidak,Tidak,Sedang,Tidak ada,146,61,Tinggi,27.40372289883992,Rendah,6.231198834030175,Kadang,Kanker,0
+435,63,Ringan,Jarang,Tidak,Tidak,Tidak,2+ penyakit,107,79,Normal,32.483552037229906,Rendah,5.797708614843188,Selalu,Hipertensi,0
+436,33,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,111,86,Normal,22.525172598159635,Rendah,6.4792202573316064,Tidak,Tidak ada,0
+437,31,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,123,81,Normal,22.512137508453932,Rendah,8.156203329981956,Selalu,Hipertensi,0
+438,29,Tidak,Jarang,Tidak,Sosial,Tidak,Tidak ada,101,78,Sedang,30.748360094393735,Sedang,5.4192467569534815,Selalu,Hipertensi,0
+439,68,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,114,67,Normal,26.482884692651524,Sedang,7.641721592729355,Kadang,Jantung,1
+440,40,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,124,82,Normal,31.33825755593987,Rendah,4.447146654972497,Sering,Kanker,0
+441,32,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,Tidak ada,115,72,Normal,26.44364001504918,Tinggi,6.157993005336691,Tidak,Kanker,0
+442,45,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,118,58,Normal,19.214416906433645,Rendah,6.505766049673021,Selalu,Jantung,1
+443,51,Sedang,Jarang,Tidak,Sosial,Tidak,1 penyakit,112,91,Sedang,18.334358226110968,Rendah,9.512289509371097,Sering,Kanker,1
+444,19,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,97,89,Normal,17.242438754705354,Rendah,6.587796542870968,Kadang,Jantung,1
+445,49,Sedang,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,124,80,Normal,28.310259173792367,Rendah,3.6981347898236225,Kadang,Tidak ada,1
+446,40,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,146,82,Sedang,30.94298411543504,Rendah,4.001666639708125,Tidak,Hipertensi,1
+447,39,Sedang,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,120,90,Tinggi,34.2468107069319,Sedang,7.051044379520022,Selalu,Hipertensi,1
+448,68,Tidak,Sedang,Kadang-kadang,Tidak,Sedang,1 penyakit,123,82,Sedang,29.215526661616202,Sedang,7.920656283684863,Tidak,Kanker,0
+449,42,Tidak,Tidak pernah,Sering,Tidak,Tidak,1 penyakit,130,89,Tinggi,30.814192887674928,Tinggi,7.563183786440879,Sering,Diabetes,0
+450,39,Ringan,Jarang,Kadang-kadang,Sering,Tidak,2+ penyakit,100,77,Sedang,22.099918336731577,Rendah,7.251355158701485,Kadang,Hipertensi,0
+451,39,Tidak,Tidak pernah,Tidak,Tidak,Tidak,2+ penyakit,145,93,Normal,19.21792091628072,Rendah,8.7433893962585,Selalu,Jantung,1
+452,66,Tidak,Tidak pernah,Kadang-kadang,Sosial,Tidak,2+ penyakit,123,83,Normal,29.250396662087766,Rendah,6.190613168894303,Kadang,Diabetes,1
+453,69,Ringan,Sering,Tidak,Tidak,Tidak,Tidak ada,144,81,Sedang,27.088403761197004,Sedang,8.342365834040237,Sering,Diabetes,1
+454,59,Ringan,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,109,67,Sedang,25.537221871704464,Rendah,4.551977672460374,Kadang,Hipertensi,1
+455,23,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,147,82,Sedang,26.93685740316495,Tinggi,5.6425782505929005,Sering,Hipertensi,1
+456,32,Ringan,Jarang,Tidak,Tidak,Tidak,Tidak ada,131,71,Normal,26.61592741229103,Sedang,4.2894379076022755,Tidak,Hipertensi,1
+457,60,Tidak,Sedang,Sering,Tidak,Sedang,Tidak ada,128,73,Normal,31.41908429926781,Sedang,6.587732048995312,Tidak,Jantung,1
+458,54,Tidak,Jarang,Tidak,Tidak,Tinggi,2+ penyakit,123,71,Normal,31.47492792408478,Sedang,6.930608174100486,Kadang,Diabetes,1
+459,50,Tidak,Tidak pernah,Kadang-kadang,Tidak,Sedang,2+ penyakit,116,69,Normal,27.721101761701735,Rendah,7.17115223833978,Sering,Kanker,1
+460,25,Tidak,Jarang,Kadang-kadang,Tidak,Sedang,Tidak ada,138,101,Normal,29.22901436281464,Rendah,7.092825029330703,Tidak,Jantung,1
+461,61,Sedang,Jarang,Kadang-kadang,Tidak,Tidak,Tidak ada,122,93,Sedang,27.57031276212388,Rendah,5.608670003782408,Sering,Tidak ada,1
+462,61,Tidak,Tidak pernah,Kadang-kadang,Sering,Tinggi,Tidak ada,90,99,Normal,22.694151339826906,Sedang,6.714638733380177,Kadang,Hipertensi,0
+463,22,Tidak,Jarang,Kadang-kadang,Tidak,Tidak,2+ penyakit,103,67,Normal,28.7828233745657,Rendah,4.753829997091377,Selalu,Diabetes,0
+464,56,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,2+ penyakit,117,80,Normal,18.027524655703694,Rendah,9.044843462698376,Selalu,Jantung,0
+465,21,Sedang,Tidak pernah,Tidak,Tidak,Tinggi,Tidak ada,124,67,Sedang,30.269457761479416,Tinggi,6.544560890652998,Sering,Tidak ada,0
+466,23,Tidak,Jarang,Tidak,Tidak,Sedang,Tidak ada,119,73,Normal,19.027385301169826,Rendah,6.266670821434463,Kadang,Jantung,1
+467,62,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tinggi,2+ penyakit,138,70,Normal,26.429016433973665,Tinggi,9.383410492666124,Kadang,Jantung,0
+468,49,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,90,92,Normal,20.774230207869206,Sedang,5.136630199676157,Tidak,Kanker,1
+469,69,Ringan,Jarang,Kadang-kadang,Tidak,Tidak,1 penyakit,122,76,Normal,27.766944915372132,Rendah,5.311619328952046,Kadang,Kanker,0
+470,47,Tidak,Sedang,Tidak,Tidak,Tidak,2+ penyakit,92,90,Tinggi,24.830373870360457,Rendah,5.355669512697152,Sering,Jantung,0
+471,64,Sedang,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,131,86,Tinggi,17.026220209183336,Rendah,6.898192927450777,Sering,Tidak ada,0
+472,52,Sedang,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,118,103,Normal,27.103498155092396,Sedang,7.647447444456396,Selalu,Diabetes,0
+473,57,Tidak,Tidak pernah,Tidak,Tidak,Tidak,Tidak ada,126,65,Normal,22.110396115836448,Sedang,8.10951320217675,Kadang,Diabetes,1
+474,69,Ringan,Jarang,Tidak,Tidak,Tinggi,Tidak ada,107,92,Sedang,29.405733604066846,Sedang,10.857992976242453,Sering,Hipertensi,0
+475,33,Sedang,Sedang,Tidak,Tidak,Tidak,2+ penyakit,139,91,Normal,25.006628443672035,Tinggi,3.6258513186988544,Kadang,Hipertensi,1
+476,30,Ringan,Tidak pernah,Sering,Sosial,Sedang,Tidak ada,135,70,Normal,26.97710492694019,Sedang,7.913103383686625,Sering,Diabetes,0
+477,67,Tidak,Sering,Kadang-kadang,Tidak,Tinggi,2+ penyakit,128,90,Normal,20.21215522492394,Rendah,6.1643041411416535,Kadang,Jantung,0
+478,59,Tidak,Tidak pernah,Tidak,Tidak,Tinggi,1 penyakit,118,83,Tinggi,22.05333884286319,Rendah,6.12037727666684,Kadang,Jantung,0
+479,47,Ringan,Jarang,Tidak,Tidak,Tinggi,Tidak ada,128,77,Normal,22.706806819494577,Tinggi,6.070341807619183,Kadang,Kanker,0
+480,36,Tidak,Sedang,Tidak,Sosial,Tidak,Tidak ada,109,71,Normal,29.28351240121278,Rendah,5.63684549378804,Sering,Kanker,0
+481,34,Ringan,Sedang,Kadang-kadang,Tidak,Tinggi,Tidak ada,132,72,Sedang,33.386885439027445,Rendah,9.526787251905178,Selalu,Hipertensi,0
+482,36,Sedang,Sedang,Kadang-kadang,Tidak,Sedang,Tidak ada,144,100,Normal,20.97414124128562,Sedang,8.263445990520854,Kadang,Diabetes,1
+483,45,Sedang,Sedang,Tidak,Tidak,Tidak,Tidak ada,136,80,Normal,30.3842407232884,Sedang,7.0347939678360625,Tidak,Jantung,0
+484,43,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,109,87,Tinggi,14.15161291137149,Tinggi,9.026523628730502,Kadang,Diabetes,1
+485,54,Tidak,Sedang,Tidak,Tidak,Sedang,Tidak ada,125,72,Normal,19.029052994538553,Sedang,4.731206552051686,Sering,Tidak ada,0
+486,43,Berat,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,100,72,Sedang,20.206107719066125,Rendah,5.003942303003611,Tidak,Diabetes,0
+487,40,Sedang,Sedang,Kadang-kadang,Sosial,Tidak,1 penyakit,128,90,Normal,18.237456552796388,Tinggi,3.7330484017079684,Sering,Tidak ada,0
+488,26,Tidak,Jarang,Tidak,Tidak,Tidak,1 penyakit,126,66,Normal,17.0820580510621,Rendah,5.950878189815069,Selalu,Kanker,0
+489,29,Sedang,Sedang,Tidak,Sosial,Tidak,Tidak ada,91,75,Normal,27.064994560688987,Rendah,7.242547790057129,Selalu,Kanker,1
+490,18,Sedang,Jarang,Tidak,Sering,Tidak,Tidak ada,102,80,Normal,23.929661511360692,Sedang,7.1542878668985015,Tidak,Hipertensi,1
+491,18,Tidak,Jarang,Sering,Tidak,Sedang,1 penyakit,115,81,Normal,26.897026988025548,Rendah,7.2240128665898204,Selalu,Diabetes,0
+492,64,Tidak,Jarang,Tidak,Tidak,Tidak,Tidak ada,115,78,Sedang,28.452363430607566,Sedang,4.883414753400878,Sering,Diabetes,1
+493,51,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,Tidak ada,101,83,Normal,26.32808496586267,Rendah,8.204732113921033,Kadang,Tidak ada,1
+494,49,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,2+ penyakit,125,86,Normal,28.28881588075187,Sedang,7.3594412773584965,Sering,Kanker,1
+495,65,Tidak,Tidak pernah,Tidak,Tidak,Tidak,1 penyakit,123,87,Normal,24.652338568788654,Rendah,8.099581422198998,Selalu,Tidak ada,0
+496,42,Sedang,Tidak pernah,Tidak,Sosial,Tinggi,1 penyakit,117,70,Sedang,19.06503305847128,Sedang,4.1608567336149225,Kadang,Kanker,0
+497,57,Tidak,Tidak pernah,Tidak,Sosial,Tidak,Tidak ada,108,77,Normal,30.28907090410398,Tinggi,7.467236288196685,Kadang,Tidak ada,1
+498,62,Tidak,Sedang,Kadang-kadang,Tidak,Tidak,1 penyakit,135,91,Normal,22.054439336094365,Rendah,5.218352140123709,Kadang,Kanker,1
+499,18,Tidak,Tidak pernah,Kadang-kadang,Tidak,Tidak,1 penyakit,144,88,Normal,20.32201850618787,Rendah,6.404015121172957,Sering,Tidak ada,1
